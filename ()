@@ -1,0 +1,28 @@
+I would like to commit all of the files in the package in one go to the github repository online, rather than commit them individually. The package is beautiful colours
+date is 31 march 2022
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .DS_Store
+#	new file:   .Rbuildignore
+#	new file:   .Rhistory
+#	new file:   .gitignore
+#	new file:   DESCRIPTION
+#	new file:   LICENSE
+#	new file:   LICENSE.md
+#	new file:   NAMESPACE
+#	new file:   R/.DS_Store
+#	new file:   R/.Rhistory
+#	new file:   R/brocolors.R
+#	new file:   R/plot_crayons.R
+#	new file:   README.Rmd
+#	new file:   man/brocolors.Rd
+#	new file:   man/plot_crayons.Rd
+#	new file:   vignettes/brocolors_vignette.Rmd
+#	new file:   vignettes/brocolors_vignette.html
+#
